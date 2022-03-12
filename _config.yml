@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr David White"
+title                    : "Dr David White a"
 title_separator          : "-"
-name                     : &name "Dr David White"
+name                     : &name "Dr David White b"
 description              : &description "personal description"
 url                      : https://dr-david-white.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr David White"
+  name             : "Dr David White c"
   avatar           : "moi.jpg"
   bio              : "Senior Lecturer with research interests in games and artificial life"
   location         : "Staffordshire, UK"
