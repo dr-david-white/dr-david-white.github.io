@@ -28,7 +28,7 @@ Research Background
 ======
 My publications are detailed in the publications tab ^^^^. My research has revolved around games / VR, but mostly Artificial Life which includes developing Agent Based Models. During my PhD I researched how simulations responded to varying levels and types of complexity. This involved simulating models of marine biology (starfish / algae / mussells) and comparing the results when high and low resulution data was included, or when large and small populations were simulated. 
 
-More recently I have been creating simulations of market based economies and simulating distruptive events. This has the aim of showing that agent-based decision making can show more resilience to system (i.e. government) decision making. 
+More recently I have been creating simulations of market based economies and simulating distruptive events. This has the aim of showing that agent-based decision making can show more resilience than system (i.e. government) decision making. 
 
 I also supervise PhDs students who are typically either researching VR, gamification or AI (neural networks). 
 
