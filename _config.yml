@@ -81,12 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "David White"
-  avatar           : "moi.jpg"
+  avatar           : "profile.png"
   bio              : "Senior Lecturer with research interests in games and artificial life"
   location         : "Staffordshire, UK"
   employer         :
-  email            : "dwhite@secretattic.co.uk
-  researchgate     : "https://www.researchgate.net/profile/David-White-28"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  
 
 
 # Reading Files
