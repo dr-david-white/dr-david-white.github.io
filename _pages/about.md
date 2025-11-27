@@ -8,11 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a senior lecturer [at Staffordshire University](https://www.staffs.ac.uk/people/david-white) where I teach computer games programming and also involve myself in research in the fields of articial life (agent based models / simulations) and computer games. 
+# Dr David White
+## Artificial Life, Agent-Based Modelling & AI Simulation
+### Bridging the gap between biological complexity and computational intelligence
 
-I have a PhD in Artificial Life and Simulation from the [University of Birmingham](https://www.birmingham.ac.uk/research/activity/eese/communications-sensing/hit-team/index.aspx) where I was a PhD student under the supervision of [Prof Bob Stone](https://www.linkedin.com/in/prof-bob-stone-21b86918), who I'd previously worked with at [Virtual Presence / Virtalis](https://www.virtalis.com/). 
+## Agent-Based Modelling (ABM)
 
-I also have a BSc (hons) in Computer Science (1st class) from Staffordshire University. 
+I develop ABMs to simulate complex adaptive systems, such as marine ecosystems and economic markets. My work, including the 'Virtual Scylla' project and recent economic crash simulations, utilizes decentralized agent logic to predict emergent behavior in volatile environments.
+
+## Agentic AI
+
+My current research is focussing on how ABMs can using Agentic AI reasoning to make econonmic decisions... watch this space. 
+
+## Key Projects
+The Virtual Scylla: A "serious game" leveraging artificial life to simulate marine biology on the HMS Scylla reef.
+
+Keele Pain Recorder: A validated mobile health app (created with £3.5m funding context) utilizing secure data collection for musculoskeletal conditions.
+
+In My Boat: A community-driven AI simulation exploring climate change impacts on marine life using Participatory Action Research.
+
+## Selected Publications
+Exploring the Intersection Between Neural Architecture Search and Continual Learning (IEEE Transactions, 2024)
+
+Adaptive functions in an agent-based model of an economic system (Adaptive Behavior, 2023)
+
+Development and validation of a pain monitoring app (BMC Medical Informatics, 2019)
+
+## Research Background
+My publications are detailed in the publications tab ^^^^. My research has revolved around games / VR, but mostly Artificial Life which includes developing Agent Based Models. During my PhD I researched how simulations responded to varying levels and types of complexity. This involved simulating models of marine biology (starfish / algae / mussells) and comparing the results when high and low resulution data was included, or when large and small populations were simulated. 
+
+More recently I have been creating simulations of market based economies and simulating distruptive events. This has the aim of showing that agent-based decision making can show more resilience than system (i.e. government) decision making. 
+
+I also supervise PhDs students who are typically either researching AI: LLMs, ABMs, or more game focused: VR, gamification; or even both!: ABMs with gamification. 
 
 # Industry Background
 
@@ -24,12 +51,6 @@ While at Birmingham I created my company, [Secret Attic Software](https://www.se
 
 On completion of my PhD I joined the team at Astraware, developing games for the newly released iPhone and Android devices, including [Astraware Mahjong](https://www.webosnation.com/astraware-mahjong) which sold rather a lot of copies. I left Astraware to work full time building up my own company, which developed apps for organisations such as Keele University, the NHS, Coventry University and the British Army. 
 
-Research Background
-======
-My publications are detailed in the publications tab ^^^^. My research has revolved around games / VR, but mostly Artificial Life which includes developing Agent Based Models. During my PhD I researched how simulations responded to varying levels and types of complexity. This involved simulating models of marine biology (starfish / algae / mussells) and comparing the results when high and low resulution data was included, or when large and small populations were simulated. 
 
-More recently I have been creating simulations of market based economies and simulating distruptive events. This has the aim of showing that agent-based decision making can show more resilience than system (i.e. government) decision making. 
-
-I also supervise PhDs students who are typically either researching VR, gamification or AI (neural networks). 
 
 
