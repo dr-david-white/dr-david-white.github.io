@@ -14,8 +14,8 @@ I have a PhD in Artificial Life and Simulation from the [University of Birmingha
 
 I also have a BSc (hons) in Computer Science (1st class) from Staffordshire University. 
 
-Industry Background
-======
+# Industry Background
+
 I have been working in and around the games industry for 20+ years. I principally write in C++, but have also developed apps in Java, C#, and Objective C, which means that I can pick up new languages fairly quickly. I have developed games engines for various platforms (PC / Mac / Android / iOS) in OpenGL, OpenGL ES and several versions of DirectX. I have worked with VR since 2000, and AR from 2012. In 2015 I developed an app called [Big Red Arrow](https://play.google.com/store/apps/details?id=com.secretattic.bigredarrow&hl=en_US&gl=US). I wrote my own AR code to avoid relying on 3rd party licenses (BRA probably needs updating on both iOS and Android, this is on my very long todo list!). 
 
 I started out at Virtual Presence (now Virtalis) working on a VR simulator for the Ministry of Defence - specifically, a 20mm anti-aircraft gun simulator. VR was expensive in those days, £10,000 for a decent graphics card, and £80,000 for a VR headset! I then moved to Headfirst productions to work on the now cult game [Call of Cthulhu](https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth). After a brief stint at Datel (creating tools for cheat codes for games) I started my PhD at Birmingham. 
